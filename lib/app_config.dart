@@ -20,7 +20,7 @@ class AppConfig {
 
   //configure this
   //static const DOMAIN_PATH = "192.168.88.193/demo_ecommerce/ecommerce"; //localhost
-  static const DOMAIN_PATH = "safqatbh.com/1"; // directly inside the
+  static const DOMAIN_PATH = "safqatbh.com/3"; // directly inside the
   //static const DOMAIN_PATH = "auction.picklejargives.com";
   // public folder
 
