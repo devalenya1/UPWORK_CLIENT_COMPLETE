@@ -19,8 +19,8 @@ class AppConfig {
   static const bool HTTPS = true;
 
   //configure this
-  static const DOMAIN_PATH = "airsoftauctions.co.uk"; //localhost
-  //static const DOMAIN_PATH = "safqatbh.com/3"; // directly inside the
+  //static const DOMAIN_PATH = "airsoftauctions.co.uk"; //localhost
+  static const DOMAIN_PATH = "safqatbh.com/2"; // directly inside the
   //static const DOMAIN_PATH = "auction.picklejargives.com";
   // public folder
 
