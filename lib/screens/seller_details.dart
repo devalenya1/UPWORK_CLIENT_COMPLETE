@@ -155,8 +155,8 @@ class _SellerDetailsState extends State<SellerDetails> {
                             MaterialPageRoute(builder: (context) {
                           return CommonWebviewScreen(
                             url:
-                                "#",
-                            page_name: "Donate To Association",
+                                "${AppConfig.RAW_BASE_URL}/donate/_shopDetails.name",
+                            page_name: "Donate To _shopDetails.name",
                           );
                         }));
                       },
