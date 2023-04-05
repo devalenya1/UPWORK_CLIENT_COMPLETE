@@ -13,6 +13,10 @@ import '../screens/common_webview_screen.dart';
 import '../helpers/shared_value_helper.dart';
 import 'package:flutter_gen/gen_l10n/app_localizations.dart';
 
+import 'package:http/http.dart' as http;
+import '../app_config.dart';
+
+
 class SellerDetails extends StatefulWidget {
   int id;
 
